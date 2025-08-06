@@ -44,6 +44,7 @@ input_data = pd.DataFrame({
     'HasCrCard': [has_cr_card],
     'IsActiveMember': [is_active_member],
     'EstimatedSalary': [estimated_salary]
+    
 })
 
 # One-hot encode 'Geography'
